@@ -6,7 +6,7 @@ This website gives a brief description of the user and some of the projects unde
 ### Prerequisities
 You need to have git installed,
 You can install it with the following command in your terminal,
-`$ sudo apt install git-all`
+(`$ sudo apt install git-all`)
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
