@@ -3,7 +3,7 @@
 Fred Kimanthi.
 ### Description
 This website gives a brief description of the user and some of the projects undertaken with their repo-links.
-It gives a clear and easily understandable use of
+It gives a clear and easily understandable use of HTML
 ### Prerequisities
 You need to have git installed,
 You can install it with the following command in your terminal,
