@@ -1,6 +1,6 @@
 # Portfolio-Page
 ## Author
-Fred Kimanthi
+Fred Kimanthi.
 ### Description
 This website gives a brief description of the user and some of the projects undertaken with their repo-links.
 ### Prerequisities
