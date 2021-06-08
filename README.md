@@ -4,7 +4,7 @@ Fred Kimanthi.
 ### Description
 This website gives a brief description of the user and some of the projects undertaken with their repo-links.
 ### Prerequisities
-You need to have git installed
+You need to have git installed,
 You can install it with the following command in your terminal
 `$ sudo apt install git-all`
 ### Setup
