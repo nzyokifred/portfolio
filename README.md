@@ -18,6 +18,7 @@ To access this project on your local files, you can clone it using these steps:
 1. HTML
 1. CSS
 1. GIT
+1. GITHUB
 ### Live Site
 View [Live] ( https://github.com/nzyokifred/portfolio)
 ### Licence
